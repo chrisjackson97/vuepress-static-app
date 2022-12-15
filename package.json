@@ -813,8 +813,7 @@
     "vuepress": "^1.9.7"
   },
   "scripts": {
-    "build": "vuepress build",
-    //"test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vuepress build"
   },
   "keywords": [],
   "author": "",
