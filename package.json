@@ -813,7 +813,6 @@
     "vuepress": "^1.9.7"
   },
   "scripts": {
-    "build": "vuepress build"
   },
   "keywords": [],
   "author": "",
